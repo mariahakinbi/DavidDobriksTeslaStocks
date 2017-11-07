@@ -4,8 +4,9 @@ This is a Twitterbot/web scraper to tweet out how David's stocks are doing. Only
 
 
 Steps:
+
 DONE: 1. Planning
-# 2. Set up Twitterbot
+## 2. Set up Twitterbot
 3. Set up hourly scraper
 4. Get twitterbot to tweet out scraper results
 a) set up template tweets
