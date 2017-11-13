@@ -1,6 +1,8 @@
 This is a test line.
-The Tesla Model 3 is designed to attain the highest safety ratings in every category. Model 3 achieves 220 miles of range while starting at only $35,000 before incentives.
+Another test line.
 
+Line after return character.
+The Tesla Model 3 is designed to attain the highest safety ratings in every category. Model 3 achieves 220 miles of range while starting at only $35,000 before incentives.
 Model S is our flagship, premium sedan with more range, acceleration, displays and customization options. It’s the safest car in its class with unlimited Supercharging for the duration of ownership when referred by an owner.
 
 Model 3 is a smaller, simpler, more affordable electric car. Although it is our newest vehicle, Model 3 is not “Version 3” or the most advanced Tesla. Like Model S, it is designed to be the safest car in its class.
